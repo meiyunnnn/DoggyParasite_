@@ -1,0 +1,45 @@
+{
+    "name": "UserInput",
+    "maps": [
+        {
+            "name": "Attack",
+            "id": "0e1060fe-2447-44b5-a0e9-620f2722f47b",
+            "actions": [
+                {
+                    "name": "Attack",
+                    "type": "PassThrough",
+                    "id": "cf7134dd-3502-4aed-b7c2-6d63aef8c549",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "16bc6288-40ae-449e-83b5-35cfb31e1286",
+                    "path": "<Keyboard>/leftCtrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a36d851e-9f8c-4978-b29d-b939393a12a2",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

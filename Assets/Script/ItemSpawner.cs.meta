@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 22f49544656ed194e9363afec13ad803
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bandageItem: {fileID: 11400000, guid: db95bfe564e80c743a128a6db1346cfd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
